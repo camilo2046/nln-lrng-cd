@@ -1,0 +1,10 @@
+https://university.mongodb.com/courses/MongoDB/M101J/2015_August/courseware/
+
+https://www.mongodb.org/
+https://maven.apache.org/
+http://json.org/
+http://sparkjava.com/
+http://freemarker.org/
+
+http://www.taywils.me/2013/11/05/javasparkframeworktutorial.html
+
