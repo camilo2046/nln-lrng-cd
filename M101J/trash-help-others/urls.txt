@@ -3,11 +3,24 @@ https://university.mongodb.com/courses/MongoDB/M101J/2015_August/courseware/
 https://www.mongodb.org/
 https://maven.apache.org/
 http://json.org/
+http://bsonspec.org/
 http://sparkjava.com/
 http://freemarker.org/
 
 http://docs.mongodb.org/manual/
+
 http://docs.mongodb.org/v2.2/tutorial/backup-databases-with-binary-database-dumps/
+http://docs.mongodb.org/manual/reference/configuration-options/?_ga=1.230277785.442384038.1439387186
+
+http://docs.mongodb.org/manual/reference/operator/query/
+http://docs.mongodb.org/manual/reference/operator/aggregation/group/
+http://docs.mongodb.org/manual/core/single-purpose-aggregation/
+http://docs.mongodb.org/manual/aggregation/
+http://docs.mongodb.org/manual/tutorial/modify-documents/
+http://docs.mongodb.org/manual/reference/method/db.collection.update/
+
+http://docs.mongodb.org/manual/reference/bson-types/
 
 http://www.taywils.me/2013/11/05/javasparkframeworktutorial.html
 
+https://www.debuggex.com/cheatsheet/regex/pcre
