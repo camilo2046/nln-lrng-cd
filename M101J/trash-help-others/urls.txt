@@ -1,4 +1,6 @@
+https://university.mongodb.com/courses/catalog
 https://university.mongodb.com/courses/MongoDB/M101J/2015_August/courseware/
+https://university.mongodb.com/mongoproc
 
 https://www.mongodb.org/
 https://maven.apache.org/
@@ -17,10 +19,20 @@ http://docs.mongodb.org/manual/reference/operator/aggregation/group/
 http://docs.mongodb.org/manual/core/single-purpose-aggregation/
 http://docs.mongodb.org/manual/aggregation/
 http://docs.mongodb.org/manual/tutorial/modify-documents/
+http://docs.mongodb.org/manual/tutorial/remove-documents/
 http://docs.mongodb.org/manual/reference/method/db.collection.update/
+http://docs.mongodb.org/manual/core/cursors/
+http://docs.mongodb.org/manual/core/data-model-design/
+https://www.mongodb.com/presentations/webinar-schema-design-1
 
 http://docs.mongodb.org/manual/reference/bson-types/
 
 http://www.taywils.me/2013/11/05/javasparkframeworktutorial.html
 
+http://mongodb.github.io/mongo-java-driver/
+http://api.mongodb.org/java/current/allclasses-noframe.html
+
 https://www.debuggex.com/cheatsheet/regex/pcre
+https://www.debuggex.com/cheatsheet/regex/pcre
+
+http://mongify.com/

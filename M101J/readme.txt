@@ -5,3 +5,20 @@
   - MongoDB  (3.0)
   - Maven
   - Spark Web Application Framework
+
+- Week 2: CRUD (MongoDB)
+  - Insert
+  - Update
+  - Upsert
+  - Query - Query Operators - Filters - Projection
+  - Remove
+  - Cursor
+  - MongoDB Java Driver
+      - Maven  Dependencies / Installation
+      - Driver Connection
+      - Insert
+      - Update
+      - Upsert
+      - Query - Query Operators - Filters - Projection
+      - Remove
+      - Cursor
