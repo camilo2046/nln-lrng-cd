@@ -2,9 +2,34 @@ package course;
 
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.model.Sorts;
+import com.mongodb.operation.UpdateOperation;
+import java.util.ArrayList;
+import java.util.Date;
 import org.bson.Document;
 
 import java.util.List;
+import org.bson.conversions.Bson;
+
+/* Insert first post via mongo-shell (for the blog project to run)
+
+    db.posts.insert (
+                        {
+                            "title" : "Martians to use MongoDB",
+                            "author" : "test_user",
+                            "body" : "Representatives from the planet Mars announced today that the planet would adopt MongoDB as a planetary standard. Head Martian Flipblip said that MongoDB was the perfect tool to store the diversity of life that exists on Mars.",
+                            "permalink" : "martians_to_use_mongodb",
+                            "tags" : [
+                                "martians",
+                                "seti",
+                                "nosql",
+                                "worlddomination"
+                            ],
+                            "comments" : [ ],
+                            "date" : ISODate("2013-03-11T01:54:53.692Z")
+                        });
+
+*/
 
 public class BlogPostDAO {
     MongoCollection<Document> postsCollection;
@@ -16,11 +41,11 @@ public class BlogPostDAO {
     // Return a single post corresponding to a permalink
     public Document findByPermalink(String permalink) {
 
-        // XXX HW 3.2,  Work Here
         Document post = null;
-
-
-
+        
+        Bson filterPermalink = new Document ("permalink", permalink);
+        post = postsCollection.find (filterPermalink).first ();
+        
         return post;
     }
 
@@ -28,9 +53,15 @@ public class BlogPostDAO {
     // how many posts are returned.
     public List<Document> findByDateDescending(int limit) {
 
-        // XXX HW 3.2,  Work Here
         // Return a list of DBObjects, each one a post from the posts collection
         List<Document> posts = null;
+        
+        Bson sortDate = Sorts.descending ("date");
+        
+        posts = postsCollection.find  ()
+                               .sort  (sortDate)
+                               .limit (limit)
+                               .into  (new ArrayList<Document> ());
 
         return posts;
     }
@@ -44,8 +75,6 @@ public class BlogPostDAO {
         permalink = permalink.replaceAll("\\W", ""); // get rid of non alphanumeric
         permalink = permalink.toLowerCase();
 
-
-        // XXX HW 3.2, Work Here
         // Remember that a valid post has the following keys:
         // author, body, permalink, tags, comments, date
         //
@@ -57,7 +86,16 @@ public class BlogPostDAO {
 
         // Build the post object and insert it
         Document post = new Document();
-
+        
+        post = post.append ("author"   , username)
+                   .append ("title"    , title)
+                   .append ("body"     , body)
+                   .append ("permalink", permalink)
+                   .append ("tags"     , tags)
+                   .append ("comments" , new ArrayList<String> ())
+                   .append ("date"     , new Date ());
+        
+        postsCollection.insertOne (post);
 
         return permalink;
     }
@@ -78,10 +116,21 @@ public class BlogPostDAO {
     public void addPostComment(final String name, final String email, final String body,
                                final String permalink) {
 
-        // XXX HW 3.3, Work Here
         // Hints:
         // - email is optional and may come in NULL. Check for that.
         // - best solution uses an update command to the database and a suitable
         //   operator to append the comment on to any existing list of comments
+        
+        Bson filterDocument          = new Document ("permalink", permalink);
+        Document postCommentDocument = new Document ("author", name).append ("body", body);
+        
+        if (email != null)
+        {
+            postCommentDocument = postCommentDocument.append ("email", email);
+        }
+        
+        Bson replacementDocument     = new Document ("$push", new Document ("comments", postCommentDocument));
+        
+        postsCollection.updateOne (filterDocument, replacementDocument);
     }
 }
