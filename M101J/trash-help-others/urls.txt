@@ -25,6 +25,11 @@ http://docs.mongodb.org/manual/core/cursors/
 http://docs.mongodb.org/manual/core/data-model-design/
 https://www.mongodb.com/presentations/webinar-schema-design-1
 
+https://github.com/mongodb/morphia/wiki
+https://github.com/mongodb/morphia/wiki/MappingObjects
+https://github.com/mongodb/morphia
+http://mongodb.github.io/morphia/
+
 http://docs.mongodb.org/manual/reference/bson-types/
 
 http://www.taywils.me/2013/11/05/javasparkframeworktutorial.html
