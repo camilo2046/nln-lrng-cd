@@ -5,6 +5,7 @@ https://university.mongodb.com/mongoproc
 https://www.mongodb.org/
 https://maven.apache.org/
 http://json.org/
+http://geojson.org/
 http://bsonspec.org/
 http://sparkjava.com/
 http://freemarker.org/
@@ -23,7 +24,25 @@ http://docs.mongodb.org/manual/tutorial/remove-documents/
 http://docs.mongodb.org/manual/reference/method/db.collection.update/
 http://docs.mongodb.org/manual/core/cursors/
 http://docs.mongodb.org/manual/core/data-model-design/
+http://docs.mongodb.org/manual/administration/optimization
+http://docs.mongodb.org/manual/core/storage/?_ga=1.103926661.442384038.1439387186#power-of-2-allocation
+http://docs.mongodb.org/manual/applications/indexes/?_ga=1.27394937.472724047.1438732333
+http://docs.mongodb.org/v3.0/core/indexes-introduction/?_ga=1.66161323.442384038.1439387186
+http://docs.mongodb.org/manual/reference/method/db.collection.createIndex/
+http://docs.mongodb.org/manual/reference/method/cursor.explain/?_ga=1.66161323.442384038.1439387186
+http://docs.mongodb.org/manual/reference/explain-results/?_ga=1.66161323.442384038.1439387186
+http://docs.mongodb.org/manual/indexes/?_ga=1.65178411.442384038.1439387186
+http://docs.mongodb.org/manual/core/index-creation/?&_ga=1.27470393.442384038.1439387186#index-creation-background
+http://docs.mongodb.org/manual/core/index-text/?_ga=1.56871599.442384038.1439387186
+http://docs.mongodb.org/manual/core/index-creation/?_ga=1.62711081.442384038.1439387186#index-creation-background
+http://docs.mongodb.org/master/reference/operator/query-geospatial/
+http://docs.mongodb.org/v3.0/applications/geospatial-indexes/
+http://docs.mongodb.org/v3.0/tutorial/calculate-distances-using-spherical-geometry-with-2d-geospatial-indexes/
+http://docs.mongodb.org/manual/reference/database-profiler/?_ga=1.208407383.472724047.1438732333
+http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.31139578.472724047.1438732333
+
 https://www.mongodb.com/presentations/webinar-schema-design-1
+https://www.mongodb.com/presentations/webinar-performance-tuning-optimization
 
 https://github.com/mongodb/morphia/wiki
 https://github.com/mongodb/morphia/wiki/MappingObjects
@@ -34,10 +53,18 @@ http://docs.mongodb.org/manual/reference/bson-types/
 
 http://www.taywils.me/2013/11/05/javasparkframeworktutorial.html
 
+http://api.mongodb.org/?_ga=1.31139578.472724047.1438732333
 http://mongodb.github.io/mongo-java-driver/
 http://api.mongodb.org/java/current/allclasses-noframe.html
 
 https://www.debuggex.com/cheatsheet/regex/pcre
-https://www.debuggex.com/cheatsheet/regex/pcre
+
+http://geojson.org/geojson-spec.html
+https://github.com/geojson/draft-geojson
+
+http://computer.howstuffworks.com/virtual-memory.htm
+http://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html
+
+http://www.geeksforgeeks.org/b-tree-set-1-introduction-2/
 
 http://mongify.com/

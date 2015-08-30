@@ -22,3 +22,36 @@
       - Query - Query Operators - Filters - Projection
       - Remove
       - Cursor
+
+- Week 3: Schema Design (Mongo DB)
+  - Patterns / Tradeoffs
+      - One To One
+      - One To Many
+      - Many To Many
+      - No Transactions / No Constraints
+      - Multikeys
+  - Embedding
+  - Denormalization
+  - ODM - Morphia
+
+- Week 4: Performance
+  - Storage Engines
+  - Indexes
+      - Creation
+      - Selection
+      - Discovery
+      - Deletion
+      - Multikey
+      - Unique
+      - Sparse
+      - Background
+      - Geospatial
+      - Efficency (size / time)
+  - Explain Plans
+  - Profiling / Logging / Monitoring
+  - MongoStat / MongoTop
+  - Sharding Introduction
+
+
+
+  
