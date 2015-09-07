@@ -52,6 +52,26 @@
   - MongoStat / MongoTop
   - Sharding Introduction
 
+- Week 5 : Aggregation Framework
+  - Aggregation Expressions
+      - $sum
+      - $sum : 1
+      - $avg
+      - $max
+      - $min
+      - $push
+      - $addToSet
+      - $first
+      - $last
+  - Aggregation pipeline
+      - $project
+      - $match
+      - $group
+      - $sort
+      - $limit
+      - $skip
+      - $unwind
+  - Compound Grouping
+  - SQL / Aggregation Framework Mapping
+  - Aggregation Framework with JAVA driver
 
-
-  

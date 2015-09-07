@@ -40,9 +40,15 @@ http://docs.mongodb.org/v3.0/applications/geospatial-indexes/
 http://docs.mongodb.org/v3.0/tutorial/calculate-distances-using-spherical-geometry-with-2d-geospatial-indexes/
 http://docs.mongodb.org/manual/reference/database-profiler/?_ga=1.208407383.472724047.1438732333
 http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.31139578.472724047.1438732333
+http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
+http://docs.mongodb.org/master/tutorial/aggregation-zip-code-data-set/
+http://docs.mongodb.org/manual/core/aggregation-introduction/
 
 https://www.mongodb.com/presentations/webinar-schema-design-1
 https://www.mongodb.com/presentations/webinar-performance-tuning-optimization
+https://www.mongodb.com/presentations/webinar-exploring-aggregation-framework
+https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework
+https://www.mongodb.com/presentations/mongodb-analytics-learn-aggregation-example-exploratory-analytics-and-visualization
 
 https://github.com/mongodb/morphia/wiki
 https://github.com/mongodb/morphia/wiki/MappingObjects
@@ -67,4 +73,8 @@ http://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html
 
 http://www.geeksforgeeks.org/b-tree-set-1-introduction-2/
 
+https://www.owasp.org/index.php/Testing_for_NoSQL_injection
+http://docs.mongodb.org/master/MongoDB-security-guide.pdf?_ga=1.99296923.442384038.1439387186
+
 http://mongify.com/
+http://tylerbrock.github.io/mongo-hacker/
