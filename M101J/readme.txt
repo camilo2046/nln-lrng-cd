@@ -75,3 +75,22 @@
   - SQL / Aggregation Framework Mapping
   - Aggregation Framework with JAVA driver
 
+
+- Week 6 : Application Engineering
+  - Write Concern
+  - Replication
+      - Replica Set
+      - Replica Set Elections
+      - Write Consistency
+      - Replica Set Connfiguration
+      - Replica Set Internals
+      - Failover and Rollback
+      - Replica Set with JAVA Driver
+      - Read Preferences
+  - Sharding
+      - Introduction
+      - Configuration
+      - Implications
+      - Shard Keys
+      - Sharding + Replication
+

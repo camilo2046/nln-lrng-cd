@@ -1,6 +1,7 @@
 https://university.mongodb.com/courses/catalog
 https://university.mongodb.com/courses/MongoDB/M101J/2015_August/courseware/
 https://university.mongodb.com/mongoproc
+https://github.com/przemyslawpluta/mongo-edu
 
 https://www.mongodb.org/
 https://maven.apache.org/
@@ -43,12 +44,22 @@ http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.3113957
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 http://docs.mongodb.org/master/tutorial/aggregation-zip-code-data-set/
 http://docs.mongodb.org/manual/core/aggregation-introduction/
+http://docs.mongodb.org/ecosystem/tools/hadoop/?_ga=1.198845034.472724047.1438732333
+http://docs.mongodb.org/manual/core/replication-introduction/
+http://docs.mongodb.org/manual/core/sharding-introduction/
+http://docs.mongodb.org/manual/core/sharded-cluster-config-servers/
+http://docs.mongodb.org/manual/core/sharding-shard-key/
+http://docs.mongodb.org/master/tutorial/administer-shard-tags/
+http://docs.mongodb.org/master/tutorial/shard-collection-with-a-hashed-shard-key/
 
 https://www.mongodb.com/presentations/webinar-schema-design-1
 https://www.mongodb.com/presentations/webinar-performance-tuning-optimization
 https://www.mongodb.com/presentations/webinar-exploring-aggregation-framework
 https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework
 https://www.mongodb.com/presentations/mongodb-analytics-learn-aggregation-example-exploratory-analytics-and-visualization
+https://www.mongodb.com/webinar/back-to-basics-thinking-in-documents?utm_campaign=Int_WB_Back%20to%20Basics%20Thinking%20in%20Documents%20-%20September%209%202015_09_15_WW%20-%20Last%20chance&utm_medium=email&utm_source=Eloqua
+https://www.mongodb.com/collateral/mongodb-architecture-guide
+https://www.mongodb.com/presentations/webinar-everything-you-need-know-about-sharding
 
 https://github.com/mongodb/morphia/wiki
 https://github.com/mongodb/morphia/wiki/MappingObjects
