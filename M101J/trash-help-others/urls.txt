@@ -62,6 +62,8 @@ https://www.mongodb.com/presentations/mongodb-analytics-learn-aggregation-exampl
 https://www.mongodb.com/webinar/back-to-basics-thinking-in-documents?utm_campaign=Int_WB_Back%20to%20Basics%20Thinking%20in%20Documents%20-%20September%209%202015_09_15_WW%20-%20Last%20chance&utm_medium=email&utm_source=Eloqua
 https://www.mongodb.com/collateral/mongodb-architecture-guide
 https://www.mongodb.com/presentations/webinar-everything-you-need-know-about-sharding
+https://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-1?_ga=1.195307497.472724047.1438732333
+https://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-2?_ga=1.195307497.472724047.1438732333
 
 https://www.mongodb.com/presentations/?_ga=1.27535865.472724047.1438732333
 https://university.mongodb.com/exams/study
@@ -70,6 +72,7 @@ https://github.com/mongodb/morphia/wiki
 https://github.com/mongodb/morphia/wiki/MappingObjects
 https://github.com/mongodb/morphia
 http://mongodb.github.io/morphia/
+https://github.com/mongodb/mongo-java-driver
 
 http://docs.mongodb.org/manual/reference/bson-types/
 
@@ -92,5 +95,10 @@ http://www.geeksforgeeks.org/b-tree-set-1-introduction-2/
 https://www.owasp.org/index.php/Testing_for_NoSQL_injection
 http://docs.mongodb.org/master/MongoDB-security-guide.pdf?_ga=1.99296923.442384038.1439387186
 
+http://www.kchodorow.com/blog/2012/10/04/how-mongodbs-journaling-works/
+https://www.mongodb.com/blog/post/meteor-build-ios-and-android-apps-are-delight-use?_ga=1.229953177.442384038.1439387186
+
 http://mongify.com/
 http://tylerbrock.github.io/mongo-hacker/
+
+

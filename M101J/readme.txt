@@ -94,3 +94,9 @@
       - Shard Keys
       - Sharding + Replication
 
+- Week 7: Case Studies
+  - Parse (Charity Majors Interview)
+  - Codeacademy (Ryan Bubinsky Interview)
+
+- Final Exam
+
