@@ -1,0 +1,32 @@
+* M102DBA: MongoDB for DBA
+
+- Week 1: Introduction
+  - Basic Concepts
+  - Installation
+  - JSON / BSON
+  - Dynamic Schemas
+  - Mongo Import
+  - Query Language Basic Concepts
+  - Cursors
+  - Sorting / Counting / Limits
+
+- Week 2: CRUD and Administrative Commands
+  - Insertion
+  - Update
+  - Save
+  - Remove
+  - Update
+  - Upsert
+  - Multi Update
+  - Wire Protocol
+  - Bulk / Batch
+  - Common Commands
+    - Administrative Commands
+    - User Commands
+    - runCommand
+    - isMaster
+    - serverStatus
+    - currentOp
+    - killOp
+    - stats
+    - drop

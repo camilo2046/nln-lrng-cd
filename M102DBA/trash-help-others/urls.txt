@@ -1,0 +1,25 @@
+https://university.mongodb.com/courses/catalog
+https://university.mongodb.com/courses/MongoDB/M102/2015_October/courseware/
+https://university.mongodb.com/mongoproc
+https://github.com/przemyslawpluta/mongo-edu
+
+http://json.org/
+http://geojson.org/
+http://bsonspec.org/
+
+https://docs.mongodb.org/manual/reference/program/mongoimport/
+https://docs.mongodb.org/manual/reference/program/mongoexport/
+https://docs.mongodb.org/manual/reference/method/db.collection.save/
+https://docs.mongodb.org/manual/reference/method/Bulk/
+https://docs.mongodb.org/manual/core/bulk-write-operations/
+https://docs.mongodb.org/manual/reference/command/
+
+https://www.mongodb.com/use-cases
+https://docs.mongodb.org/ecosystem/use-cases/
+http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.225519135.442384038.1439387186
+https://www.mongodb.com/presentations/iot-1-creating-real-time-dashboards?_ga=1.29149881.442384038.1439387186
+https://www.mongodb.com/white-papers?_ga=1.263376393.442384038.1439387186
+https://docs.mongodb.org/manual/administration/production-notes/?_ga=1.70945685.442384038.1439387186#vmware
+
+M101J url links are useful
+
