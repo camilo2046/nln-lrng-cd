@@ -7,12 +7,36 @@ http://json.org/
 http://geojson.org/
 http://bsonspec.org/
 
+http://google.github.io/snappy/
+https://github.com/google/snappy
+http://www.zlib.net/
+http://www.zlib.net/zlib_tech.html
+
+http://robomongo.org/
+
 https://docs.mongodb.org/manual/reference/program/mongoimport/
 https://docs.mongodb.org/manual/reference/program/mongoexport/
 https://docs.mongodb.org/manual/reference/method/db.collection.save/
 https://docs.mongodb.org/manual/reference/method/Bulk/
 https://docs.mongodb.org/manual/core/bulk-write-operations/
 https://docs.mongodb.org/manual/reference/command/
+https://docs.mongodb.org/manual/core/index-ttl/
+https://docs.mongodb.org/manual/tutorial/create-tailable-cursor/
+http://jwage.com/post/30490196727/mongodb-tailable-cursors
+https://docs.mongodb.org/manual/reference/method/cursor.addOption/
+https://docs.mongodb.org/manual/tutorial/manage-the-database-profiler/
+https://docs.mongodb.org/ecosystem/drivers/?_ga=1.95209945.472724047.1438732333
+https://docs.mongodb.org/v3.0/core/index-unique/?_ga=1.203738965.472724047.1438732333#unique-index-and-missing-field
+https://docs.mongodb.org/manual/core/index-sparse/?_ga=1.2369141.472724047.1438732333#sparse-and-unique-properties
+https://docs.mongodb.org/manual/core/index-compound/?_ga=1.95151961.472724047.1438732333#sort-order
+https://docs.mongodb.org/manual/release-notes/3.0-upgrade/?_ga=1.27444089.472724047.1438732333#change-storage-engine-to-wiredtiger
+https://docs.mongodb.org/manual/core/authorization/?_ga=1.98839387.472724047.1438732333
+https://docs.mongodb.org/manual/faq/storage/?_ga=1.27536121.472724047.1438732333#to-what-size-should-i-set-the-wiredtiger-cache
+https://docs.mongodb.org/manual/core/index-creation/?_ga=1.106687046.472724047.1438732333#building-indexes-on-secondaries
+https://docs.mongodb.org/manual/core/index-multikey/?_ga=1.6540023.472724047.1438732333#covered-queries
+https://docs.mongodb.org/manual/tutorial/manage-users-and-roles/?_ga=1.102302148.472724047.1438732333#manage-user-and-roles
+https://docs.mongodb.org/manual/core/security-built-in-roles/?_ga=1.102302148.472724047.1438732333
+https://docs.mongodb.org/manual/reference/method/db.collection.insert/?_ga=1.208208855.472724047.1438732333#insert-multiple-documents
 
 https://www.mongodb.com/use-cases
 https://docs.mongodb.org/ecosystem/use-cases/
@@ -20,6 +44,9 @@ http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.2255191
 https://www.mongodb.com/presentations/iot-1-creating-real-time-dashboards?_ga=1.29149881.442384038.1439387186
 https://www.mongodb.com/white-papers?_ga=1.263376393.442384038.1439387186
 https://docs.mongodb.org/manual/administration/production-notes/?_ga=1.70945685.442384038.1439387186#vmware
+
+https://www.mongodb.com/presentations/webinar-indexing-strategies-help-you-scale
+https://www.mongodb.com/blog/post/performance-testing-mongodb-30-part-1-throughput-improvements-measured-ycsb
 
 M101J url links are useful
 

@@ -30,3 +30,27 @@
     - killOp
     - stats
     - drop
+
+- Week 3: Performance
+  - Storage Engines
+    - MMapV1
+    - WiredTiger
+  - Indexes
+    - Creation
+    - Selection
+    - Discovery
+    - Deletion
+    - Multikey
+    - Unique
+    - Sparse
+    - TTL
+    - Background
+    - Geospatial
+    - Text
+    - Efficency (size / time)
+  - Explain Plans
+  - Covered Queries
+  - currentOp (revisited)
+  - killOp (revisited)
+  - Profiling / Logging / Monitoring
+  - MongoStat / MongoTop
