@@ -1,0 +1,56 @@
+# command line shell:
+
+mongod --dbpath "data-rs-hw\rs1" --port 27001 --replSet "replSet" --smallfiles --oplogSize 50
+mongod --dbpath "data-rs-hw\rs2" --port 27002 --replSet "replSet" --smallfiles --oplogSize 50
+mongod --dbpath "data-rs-hw\rs3" --port 27003 --replSet "replSet" --smallfiles --oplogSize 50
+
+mongo --port 27001 --shell replication.js
+
+# mongo shell (27001):
+replSet_config = {
+                     "_id"     : "replSet",
+                     "members" : [{"_id" : 0, "host" : "localhost:27001"}]
+                 };
+				 
+rs.initiate (replSet_config);
+
+# mongo shell (27001):
+
+replSet_config = {
+                     "_id"     : "replSet",
+                     "members" : [{"_id" : 0, "host" : "localhost:27001"},
+                                  {"_id" : 1, "host" : "localhost:27002"},
+                                  {"_id" : 2, "host" : "localhost:27003"}]
+                 };
+
+rs.initiate (replSet_config);
+
+# mongo shell (27001):
+
+rs.add("localhost:27002")
+rs.add("localhost:27003")
+
+# mongo shell (27001):
+
+rs.stepDown()
+
+# mongo shell (27002):
+
+rs.remove ("localhost:27001")
+rs.status ();
+
+# mongo shell (27002):
+
+replSet_config = {
+                     "_id"     : "replSet",
+                     "members" : [{"_id" : 1, "host" : "localhost:27002"},
+                                  {"_id" : 2, "host" : "localhost:27003"}]
+                 };
+
+rs.reconfig (replSet_config);
+rs.status ();
+
+# mongo shell (27003):
+
+db.oplog.rs.find ()
+db.oplog.rs.find( { } ).sort( { $natural : 1 } ).limit( 1 ).next( ).o.msg[0]

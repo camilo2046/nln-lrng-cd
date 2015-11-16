@@ -37,6 +37,9 @@ https://docs.mongodb.org/manual/core/index-multikey/?_ga=1.6540023.472724047.143
 https://docs.mongodb.org/manual/tutorial/manage-users-and-roles/?_ga=1.102302148.472724047.1438732333#manage-user-and-roles
 https://docs.mongodb.org/manual/core/security-built-in-roles/?_ga=1.102302148.472724047.1438732333
 https://docs.mongodb.org/manual/reference/method/db.collection.insert/?_ga=1.208208855.472724047.1438732333#insert-multiple-documents
+https://docs.mongodb.org/manual/administration/backup/
+https://docs.mongodb.org/manual/core/replica-set-high-availability/
+https://docs.mongodb.org/manual/core/replica-set-elections/
 
 https://www.mongodb.com/use-cases
 https://docs.mongodb.org/ecosystem/use-cases/
@@ -44,6 +47,8 @@ http://docs.mongodb.org/ecosystem/tools/administration-interfaces/?_ga=1.2255191
 https://www.mongodb.com/presentations/iot-1-creating-real-time-dashboards?_ga=1.29149881.442384038.1439387186
 https://www.mongodb.com/white-papers?_ga=1.263376393.442384038.1439387186
 https://docs.mongodb.org/manual/administration/production-notes/?_ga=1.70945685.442384038.1439387186#vmware
+https://www.mongodb.com/collateral/mongodb-operations-best-practices
+https://www.mongodb.com/presentations/webinar-backups-disaster-recovery
 
 https://www.mongodb.com/presentations/webinar-indexing-strategies-help-you-scale
 https://www.mongodb.com/blog/post/performance-testing-mongodb-30-part-1-throughput-improvements-measured-ycsb

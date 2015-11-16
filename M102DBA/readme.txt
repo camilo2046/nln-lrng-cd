@@ -54,3 +54,18 @@
   - killOp (revisited)
   - Profiling / Logging / Monitoring
   - MongoStat / MongoTop
+
+- Week 4: Replication (1)
+  - Replication
+    - Overview
+    - Asynchronous Replication
+    - Basic Concepts
+  - Replica Sets
+    - Configuration
+    - Initiation
+    - Status
+    - Commands
+    - Read Preference
+    - Read Preference Options
+  - Failover
+  - Recovery
