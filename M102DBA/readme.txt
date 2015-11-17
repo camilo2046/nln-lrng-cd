@@ -69,3 +69,23 @@
     - Read Preference Options
   - Failover
   - Recovery
+
+- Week 5: Replication (2)
+  - Replica Set Optimization
+    - Arbiters
+    - Voting Options
+    - Priority Options
+    - Hidden Options
+    - Slave Delay
+  - Replica Set Monitoring
+    - Arbiters
+    - Voting Options
+    - Replica Sets in a Single Datacenter
+    - Replica Sets in Multiple Datacenters
+  - Replica Set Reconfiguration
+  - Multiple Storage Engine Replica Set
+  - Write Concern
+    - w
+    - wtimeout
+    - Capacity Planning
+    - Use Cases - Patterns

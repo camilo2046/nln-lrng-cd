@@ -1,0 +1,27 @@
+# command line shell:
+
+mongod --dbpath "data-rs-hw\rs1" --port 27001 --replSet "replSet" --smallfiles --oplogSize 50
+mongod --dbpath "data-rs-hw\rs2" --port 27002 --replSet "replSet" --smallfiles --oplogSize 50
+mongod --dbpath "data-rs-hw\rs3" --port 27003 --replSet "replSet" --smallfiles --oplogSize 50
+
+mongo --port 27001
+
+# mongo shell (27001):
+
+replSet_config = {
+                     "_id"     : "replSet",
+                     "members" : [{"_id" : 0, "host" : "localhost:27001"},
+                                  {"_id" : 1, "host" : "localhost:27002"},
+                                  {"_id" : 2, "host" : "localhost:27003", "arbiterOnly" : true}]
+                 };
+
+rs.initiate (replSet_config);
+rs.status ()
+
+# mongo shell (27001):
+
+use test;
+
+db.m102.find ();
+db.m102.insert ([{ "a" : 1 }, { "b" : 2 }, { "c" : 3 }]);
+db.m102.find ();

@@ -64,6 +64,7 @@ https://www.mongodb.com/collateral/mongodb-architecture-guide
 https://www.mongodb.com/presentations/webinar-everything-you-need-know-about-sharding
 https://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-1?_ga=1.195307497.472724047.1438732333
 https://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-2?_ga=1.195307497.472724047.1438732333
+https://www.mongodb.com/presentations/webinar-how-achieve-scale-mongodb?utm_campaign=T5_V2_DEV_AM_E7_Scaling%20-%20B&utm_medium=email&utm_source=Eloqua
 
 https://www.mongodb.com/presentations/?_ga=1.27535865.472724047.1438732333
 https://university.mongodb.com/exams/study
