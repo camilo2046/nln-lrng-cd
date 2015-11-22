@@ -14,6 +14,7 @@ http://www.zlib.net/zlib_tech.html
 
 http://robomongo.org/
 https://www.mongodb.com/cloud
+https://cloud.google.com/bigtable/docs/
 
 https://docs.mongodb.org/manual/reference/program/mongoimport/
 https://docs.mongodb.org/manual/reference/program/mongoexport/
@@ -51,6 +52,7 @@ https://docs.mongodb.org/manual/release-notes/3.0-upgrade/?_ga=1.6931319.4727240
 https://docs.mongodb.org/manual/tutorial/reconfigure-replica-set-with-unavailable-members/?_ga=1.7522807.472724047.1438732333
 https://docs.mongodb.org/manual/core/read-preference/?_ga=1.7661431.472724047.1438732333
 https://docs.mongodb.org/manual/reference/limits/?_ga=1.29018617.472724047.1438732333#Number-of-Members-of-a-Replica-Set
+https://docs.mongodb.org/manual/sharding/
 
 https://www.mongodb.com/use-cases
 https://docs.mongodb.org/ecosystem/use-cases/
@@ -63,6 +65,7 @@ https://www.mongodb.com/presentations/webinar-backups-disaster-recovery
 https://www.mongodb.com/presentations/webinar-how-achieve-scale-mongodb?utm_campaign=T5_V2_DEV_AM_E7_Scaling%20-%20B&utm_medium=email&utm_source=Eloqua
 https://www.mongodb.com/blog/post/server-discovery-and-monitoring-next-generation-mongodb-drivers?_ga=1.5835638.472724047.1438732333
 https://docs.mongodb.org/ecosystem/drivers/?_ga=1.5835638.472724047.1438732333
+https://www.mongodb.com/presentations/webinar-diagnostics-and-debugging-mongodb?utm_campaign=T5_V2_DEV_AM_E8_Diagnostics%20and%20Debugging%20-%20B&utm_medium=email&utm_source=Eloqua
 
 https://www.mongodb.com/presentations/webinar-indexing-strategies-help-you-scale
 https://www.mongodb.com/blog/post/performance-testing-mongodb-30-part-1-throughput-improvements-measured-ycsb

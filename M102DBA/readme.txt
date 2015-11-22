@@ -89,3 +89,28 @@
     - wtimeout
     - Capacity Planning
     - Use Cases - Patterns
+
+- Week 6: Scalability
+  - Sharding Setup
+    - Sharding
+    - Data Distribution
+    - Replication with Sharding
+    - Chunks and Operations
+      - Split
+      - Migrate
+    - Sharding Processes
+    - Cluster Topology
+    - Sharding Configuration
+      - Adding Shards
+      - Enabling Sharding
+      - Sharding a collection
+  - Sharding Monitoring
+    - The config database
+    - Process - Machine Layout
+  - Shard Keys 
+    - Cardinality / Granularity
+    - Monotonic Fields
+  - Inserting large amounts of data
+    - Bulk Loads
+    - Chunk (Sharding) Pre-Splits
+  - Sharding Best Practices
