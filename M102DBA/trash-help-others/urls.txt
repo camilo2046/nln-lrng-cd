@@ -2,6 +2,11 @@ https://university.mongodb.com/courses/catalog
 https://university.mongodb.com/courses/MongoDB/M102/2015_October/courseware/
 https://university.mongodb.com/mongoproc
 https://github.com/przemyslawpluta/mongo-edu
+https://jira.mongodb.org/secure/Dashboard.jspa
+https://groups.google.com/forum/#!forum/mongodb-user
+https://github.com/mongodb
+https://twitter.com/mongodb?lang=es
+http://blog.mongodb.org/
 
 http://json.org/
 http://geojson.org/
@@ -56,6 +61,19 @@ https://docs.mongodb.org/manual/reference/limits/?_ga=1.29018617.472724047.14387
 https://docs.mongodb.org/manual/sharding/
 https://docs.mongodb.org/manual/core/sharded-cluster-high-availability/?_ga=1.196225641.472724047.1438732333
 https://docs.mongodb.org/manual/core/sharded-cluster-config-servers/?_ga=1.56372974.472724047.1438732333
+https://docs.mongodb.org/manual/tutorial/configure-ssl/
+https://docs.mongodb.org/manual/security/?_ga=1.55468907.1722128770.1448842061
+http://docs.mongodb.org/manual/core/authentication/?_ga=1.88476507.1722128770.1448842061
+https://docs.mongodb.org/manual/core/security-built-in-roles/
+https://docs.mongodb.org/manual/reference/method/db.createUser/?_ga=1.255624904.1722128770.1448842061#db.createUser
+https://docs.mongodb.org/manual/core/backups/?_ga=1.257347275.1722128770.1448842061
+https://docs.mongodb.org/manual/tutorial/backup-and-restore-tools/
+https://docs.mongodb.org/manual/administration/backup-sharded-clusters/
+https://docs.mongodb.org/manual/tutorial/restore-sharded-cluster/
+https://docs.mongodb.org/manual/tutorial/expire-data/
+https://docs.mongodb.org/manual/core/capped-collections/
+https://docs.mongodb.org/manual/core/gridfs/
+http://docs.mongodb.org/manual/administration/production-notes/?_ga=1.55584619.1722128770.1448842061
 
 https://www.mongodb.com/use-cases
 https://docs.mongodb.org/ecosystem/use-cases/
@@ -70,6 +88,10 @@ https://www.mongodb.com/blog/post/server-discovery-and-monitoring-next-generatio
 https://docs.mongodb.org/ecosystem/drivers/?_ga=1.5835638.472724047.1438732333
 https://www.mongodb.com/presentations/webinar-diagnostics-and-debugging-mongodb?utm_campaign=T5_V2_DEV_AM_E8_Diagnostics%20and%20Debugging%20-%20B&utm_medium=email&utm_source=Eloqua
 https://www.mongodb.com/webinar/an-introduction-to-mongodb-compass?_ga=1.195217257.472724047.1438732333
+https://www.mongodb.com/collateral/mongodb-security-architecture
+https://www.mongodb.com/blog/post/making-hipaa-compliant-applications-mongodb?jmp=docs&_ga=1.214764247.1722128770.1448842061
+https://www.mongodb.com/presentations/webinar-securing-your-mongodb-deployment?jmp=docs&_ga=1.214764247.1722128770.1448842061
+https://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-2
 
 https://www.mongodb.com/presentations/webinar-indexing-strategies-help-you-scale
 https://www.mongodb.com/blog/post/performance-testing-mongodb-30-part-1-throughput-improvements-measured-ycsb

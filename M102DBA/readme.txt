@@ -114,3 +114,26 @@
     - Bulk Loads
     - Chunk (Sharding) Pre-Splits
   - Sharding Best Practices
+
+- Week 7: Security Backup Recovery
+  - Backup and Restore
+    - mongodump
+    - mongorestore
+    - FileSystem Snapshots
+    - Sharded Cluster Backup
+    - Backup Strategies
+  - Security
+    - Authentication
+    - Authorization
+    - Roles
+    - SSL and Keyfiles
+    - Security and Clients
+    - Intra Cluster Security
+  - Additional Features (MongoDB)
+    - GridFS
+    - Capped Collections
+    - TTL Collections
+  - Hardware/Software Tips
+  - Additional Resources
+
+- Final Exam
